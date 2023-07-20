@@ -211,7 +211,7 @@ footer{
 
 .about-section2{
     display: flex;
-    margin: 2rem 3rem;
+    margin: 4rem 3rem;
     justify-content: space-between;
     align-items: center;
     text-align: center;
@@ -238,4 +238,5 @@ footer{
     color: #fff;
     font-size: 16px;
     border-radius: 10px 0 10px 0;
+    margin: 10px 0 0 0;
 }
